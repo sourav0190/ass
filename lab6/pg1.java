@@ -1,4 +1,4 @@
-// import java.util.*;
+import java.util.*;
 public class pg1 {
     public static void main(String[] args) {
 
@@ -39,4 +39,5 @@ public class pg1 {
 //    i love java java java more than pizza, java makes me happy java!       
 //    I LOVE JAVA JAVA JAVA MORE THAN PIZZA, JAVA MAKES ME HAPPY JAVA!       
 // I love JAVA java JaVa more than pizza, java makes me happy java!
+
 // PS C:\Users\soura\OneDrive\Desktop\study\java\ass\lab6>
